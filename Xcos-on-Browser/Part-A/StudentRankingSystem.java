@@ -145,7 +145,7 @@ class StudentRankingSystem implements Comparable<StudentRankingSystem>{
 			student[i] = new StudentRankingSystem();
 		}
                 //Sort the given array of objects(student[]), in the order preferred(compareTo)
-		Arrays.sort(student,0,n);
+		Arrays.sort(student, 0, n);
                 //Print the output after sorting.
 		System.out.println("Rank\t\tRoll No\t\tName\t\tTotal\t\tMathes\t\tScience\t\tES\t\tLang 1\t\tLang 2");
 		for(int i = n-1; i >= 0; i--) {
