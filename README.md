@@ -1,3 +1,3 @@
 # Hello World
-My First Repository!
-All the git tools would be practiced here :)
+My First Repository!  
+Random stuff would be living here :)
