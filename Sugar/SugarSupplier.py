@@ -20,7 +20,7 @@ with open("input.txt", "r") as infile :
 	input_list = [line.strip() for line in infile]
 
 
-i=0
+i = 0
 with open("formatted.txt") as infile, open("distances.txt", "w") as outfile :
 	#HTTP Request to return the json file
     for line in infile :
