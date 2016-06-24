@@ -1,0 +1,13 @@
+See file:///Users/VishnuHNair/Desktop/reference/jni-sample/app/build/tmp/linkHello-jniArm64-v8aDebugAllSharedLibrary/output.txt for all output for linkHello-jniArm64-v8aDebugAllSharedLibrary.
+linking libhello-jni.so successful.
+clang++: warning: -Wl,-soname,libhello-jni.so: 'linker' input unused
+clang++: warning: /Users/VishnuHNair/Desktop/reference/jni-sample/app/build/intermediates/objectFiles/arm64-v8aDebugAllSharedLibrary/hello-jniMainC/f09oiarqwluokqprvopurhm8/hello-jni.o: 'linker' input unused
+clang++: warning: -Wl,--no-undefined: 'linker' input unused
+clang++: warning: -Wl,-z,noexecstack: 'linker' input unused
+clang++: warning: -Wl,-z,relro: 'linker' input unused
+clang++: warning: -Wl,-z,now: 'linker' input unused
+clang++: warning: -Wl,--build-id: 'linker' input unused
+clang++: warning: -lvarnam: 'linker' input unused
+clang++: warning: argument unused during compilation: '-shared'
+
+Finished linkHello-jniArm64-v8aDebugAllSharedLibrary, see full log file:///Users/VishnuHNair/Desktop/reference/jni-sample/app/build/tmp/linkHello-jniArm64-v8aDebugAllSharedLibrary/output.txt.

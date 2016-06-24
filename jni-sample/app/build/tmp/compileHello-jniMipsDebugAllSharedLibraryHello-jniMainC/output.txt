@@ -1,0 +1,6 @@
+See file:///Users/VishnuHNair/Desktop/reference/jni-sample/app/build/tmp/compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC/output.txt for all output for compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+clang: warning: optimization flag '-finline-functions' is not supported
+clang: warning: argument unused during compilation: '-finline-functions'
+
+Finished compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC, see full log file:///Users/VishnuHNair/Desktop/reference/jni-sample/app/build/tmp/compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC/output.txt.
