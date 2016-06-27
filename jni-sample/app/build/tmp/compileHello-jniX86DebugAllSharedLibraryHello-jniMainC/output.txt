@@ -1,4 +1,0 @@
-See file:///Users/VishnuHNair/Desktop/reference/jni-sample/app/build/tmp/compileHello-jniX86DebugAllSharedLibraryHello-jniMainC/output.txt for all output for compileHello-jniX86DebugAllSharedLibraryHello-jniMainC.
-compiling hello-jni.c successful.
-
-Finished compileHello-jniX86DebugAllSharedLibraryHello-jniMainC, see full log file:///Users/VishnuHNair/Desktop/reference/jni-sample/app/build/tmp/compileHello-jniX86DebugAllSharedLibraryHello-jniMainC/output.txt.
