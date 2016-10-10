@@ -27,7 +27,7 @@ with open("formatted.txt") as infile, open("distances.txt", "w") as outfile :
         url = "https://maps.googleapis.com/maps/api/directions/json?origin=" + line + "&destination=IIT+Bombay"
         response = urllib.urlopen(url)
 
-		#Storing the json file into data
+	#Storing the json file into data
         data = json.loads(response.read())
 
         #Check if the route is accessible by road, if not store the distance as -1
